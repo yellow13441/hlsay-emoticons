@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/yellow13441/hlsay-emoticons/hlsay.json
 
 ```yaml
 frontend:
-  emoticons: https://cdn.jsdelivr.net/gh/yellow13441/hlsay-emoticons/hlsay.json
+  emoticons: https://cdn.jsdelivr.net/gh/yellow13441/hlsay-emoticons@main/hlsay.json
 ```
 
 ### 前端配置
@@ -54,7 +54,7 @@ frontend:
 ```js
 Artalk.init({
   // ...
-  emoticons: 'https://cdn.jsdelivr.net/gh/yellow13441/hlsay-emoticons/hlsay.json',
+  emoticons: 'https://cdn.jsdelivr.net/gh/yellow13441/hlsay-emoticons@main/hlsay.json',
 })
 ```
 
